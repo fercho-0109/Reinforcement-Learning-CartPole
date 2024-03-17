@@ -5,7 +5,7 @@ Code based from https://github.com/nicknochnack
 For any questions or suggestions write to alexismarino0109@gmail.com
 
 ## Summary.
-This is the classic example of reinforcement learning in which an agent has to learn to keep a pole stable. The algorithm is developed by taking advantage of the versatility of the stable Baselines3 library. Using PPO RL algorithm. it is programmed using a Jupyter notebook. for more information review  
+This is the classic example of reinforcement learning in which an agent has to learn to keep a pole stable. The algorithm is developed by taking advantage of the versatility of the stable Baselines3 library. Using PPO RL algorithm. it is programmed using a Jupyter Notebook. For more information review:  
 https://stable-baselines3.readthedocs.io/en/master/
 
 ## Run
